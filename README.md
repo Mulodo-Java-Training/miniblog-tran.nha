@@ -1,4 +1,4 @@
-projectname-lastname.firstname
+miniblog-tran.nha
 ==============================
 
 Template repo for Mulodo training. (ex: miniblog-truong.vu) 
